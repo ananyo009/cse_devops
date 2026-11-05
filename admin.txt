@@ -1,1 +1,1 @@
-this is the modified projects page
+this is the admin page

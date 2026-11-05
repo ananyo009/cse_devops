@@ -1,2 +1,5 @@
+
 good file
 
+good morning this is a text file
+>>>>>>> branch1
